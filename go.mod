@@ -1,4 +1,4 @@
-module main.go
+module finalProject
 
 go 1.26.4
 
